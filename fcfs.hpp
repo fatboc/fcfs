@@ -22,11 +22,8 @@ typedef struct PROCESS{
     time_t runtime;
     STATE state;
     PROCESS * parent;
-<<<<<<< HEAD
     int arrival_time;
-=======
-    time_t arrival_time;
->>>>>>> 3d0404f05580b93c20d3cbd6a0cf41229193d34c
+
     std::string command;
 
 } PROCESS;
