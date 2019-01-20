@@ -29,7 +29,7 @@ typedef struct PROCESS{
 
 void fcfs();
 
-std::list<PROCESS*>::iterator find_min(std::list<PROCESS*> data);
+std::list<PROCESS*>::iterator find_min(std::list<PROCESS*> & data);
 
 bool operator<(PROCESS p1, PROCESS p2);
 std::ostream& operator<< (std::ostream& os, const PROCESS &p);
@@ -37,6 +37,6 @@ std::ostream& operator<< (std::ostream& os, const PROCESS &p);
 
 std::list<PROCESS*> load();
 
-void del_list(std::list<PROCESS*> proc);
+void del_list(std::list<PROCESS*> & proc);
 
 
