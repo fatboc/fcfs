@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1547646203 source:/home/fatusia/Documents/fcfs/main.cpp
+	"fcfs.hpp"
+
+1548001558 /home/fatusia/Documents/fcfs/fcfs.hpp
+	<iostream>
+	<list>
+	<iterator>
+	<stdlib.h>
+	<ctime>
+	<fstream>
+	<algorithm>
+	<string>
+
+1547977924 source:/home/fatusia/Documents/fcfs/fcfs.cpp
+	"fcfs.hpp"
+
