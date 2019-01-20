@@ -2,7 +2,11 @@
 1547646203 source:/home/fatusia/Documents/fcfs/main.cpp
 	"fcfs.hpp"
 
+<<<<<<< HEAD
+1548016096 /home/fatusia/Documents/fcfs/fcfs.hpp
+=======
 1548001558 /home/fatusia/Documents/fcfs/fcfs.hpp
+>>>>>>> 3d0404f05580b93c20d3cbd6a0cf41229193d34c
 	<iostream>
 	<list>
 	<iterator>
@@ -12,6 +16,10 @@
 	<algorithm>
 	<string>
 
+<<<<<<< HEAD
+1548016486 source:/home/fatusia/Documents/fcfs/fcfs.cpp
+=======
 1547977924 source:/home/fatusia/Documents/fcfs/fcfs.cpp
+>>>>>>> 3d0404f05580b93c20d3cbd6a0cf41229193d34c
 	"fcfs.hpp"
 
